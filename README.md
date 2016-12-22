@@ -51,11 +51,10 @@ to the masses.
 ### Important missing stuff
 
 1. Jasmine Tests!
-2. Documentation: JSDoc, Getting started documentation and landing page
-3. Better accessibility using ARIA and other optimizations
-4. Better interfaces to the library (i.e. jQuery with data-* attributes for configuration), Angular.js directive etc.
-5. Richer Sass / CSS framework
-6. Other charts types (spider etc.)
+2. Better accessibility using ARIA and other optimizations
+3. Better interfaces to the library (i.e. jQuery with data-* attributes for configuration), Angular.js directive etc.
+4. Richer Sass / CSS framework
+5. Other charts types (spider etc.)
 
 ## Plugins
 
